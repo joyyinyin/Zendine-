@@ -1,0 +1,7 @@
+{
+  "name": "ZenDine Smart Restaurant System",
+  "description": "A comprehensive restaurant ordering system with customer-facing menu, staff order management, and administrative analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
